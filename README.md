@@ -48,6 +48,21 @@ Circuito para comprobar el Teorema de la MTP
 
 5.EXPLICACIÓN
 
+Una vez implementado el circuito, tomado los datos de voltaje y corriente y su respectivo análisis algebraico se procedio a armar la siguiente tabla
+
+|**RL (Ω)**|**Corriente medida (mA)**|**Voltaje medido (V)**|**Potencia calculada experimentalmente (W)**|**Potencia calculada teóricamente (W)**|
+|:----|:----:|:---:|:---:|:---:|
+|220|10.6|2.32|
+|470|8.98|4.22|
+|680|7.98|5.43|
+|820|7.43|6.09|
+|1000|6.82|6.82|
+|1500|5.56|8.33|
+|1800|5|9|
+|2200|4.41|9.71|
+|3900|2.94|11.5|
+|4700|2.54|11.9|
+
 Preguntas:
 
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
