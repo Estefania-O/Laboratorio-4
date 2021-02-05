@@ -55,6 +55,7 @@ Circuitos armados con la ayuda del simulador Tinkercad en ellos se indican como 
 
 Una vez implementado el circuito, tomado los datos de voltaje y corriente y su respectivo análisis algebraico se procedio a armar la siguiente tabla
 
+**TABLA I.** Parámetros Eléctricos del circuito.
 |**RL (Ω)**|**Corriente medida (mA)**|**Voltaje medido (V)**|**Potencia calculada experimentalmente (W)**|**Potencia calculada teóricamente (W)**|
 |:----|:----:|:---:|:---:|:---:|
 |220|10.6|2.32|0.02454|0.02453|
@@ -75,10 +76,11 @@ Preguntas:
 
 ¿Cuál fue la potencia máxima en RL?
 
-La potencia máxima se encuentra en la RL de 1000 ohms ya como se muestra en la tabla despues de ese resistor los valores de pontencia de las otras RL empiezan a disminuir.
+Como se puede observar en la TABLA I la pontencia máxima de RL fue de 0.04648 watts
 
 ¿Para qué valor de RL se obtiene la MTP?
 
+Como se puede observan en la TABLA I la Rl de 1000 ohms es donde encontramos la máxima tranferencia de potencia
 
 **6.  CONCLUSIONES**
 
