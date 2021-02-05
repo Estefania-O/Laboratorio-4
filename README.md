@@ -3,15 +3,7 @@
 
 1.OBJETIVOS 
 
-Objetivo General 
-
 •	Comprobar mediante el análisis,  práctica y simulación por computadora, el Teorema de Máxima Transferencia de Potencia  que se da a través de una resistencia de carga con valor RL conectada a un circuito emisor de dicha potencia
-
-Objetivos Específicos 
-
-•	Utilizar todos los aprendizajes obtenidos para el desarrollo adecuado del laboratorio, mejorado el desempeño individual.
-
-•	Comprobar experimental el teorema planteado mediante cálculos que permitan verificar los valores obtenidos en el simulador .
 
 •	Analizar la variación de corriente tanto de forma experimental como practica.
 
@@ -20,9 +12,28 @@ Objetivos Específicos
 
 ![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Teorema_maxima_potencia_transferida.png)
 
+![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Maxima_transferencia_potencia.png)
+
 3.DIAGRAMAS
 
 4.LISTA DE COMPONENTES
+
+|**Cantidad**|**Elemento**|
+|:-----:|:-----:|
+|1|Fuente de voltaje C.D.|
+|2|Multímetro Digital|
+|1|Resistor de 220 Ω|
+|1|Resistor de 470 Ω|
+|1|Resistor de 680 Ω|
+|1|Resistor de 820 Ω|
+|1|Resistor de 1 kΩ|
+|1|Resistor de 1.2 kΩ|
+|1|Resistor de 1.5 kΩ|
+|1|Resistor de 1.8 kΩ|
+|1|Resistor de 2.2 kΩ|
+|1|Resistor de 3.9 kΩ|
+|1|Resistor de 4.7 kΩ|
+|1|Protoboard|
 
 5.EXPLICACIÓN
 
