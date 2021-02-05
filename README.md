@@ -31,10 +31,16 @@ Preguntas:
 
 •	El teorema de la máxima transferencia de potencia, se deriva del teorema de Thevenin y el de Norton, con un poco de cálculo elemental: llegamos a la conclusión que la máxima potencia se da cuando la carga toma de resistencia de igual a la resistencia de Thevenin o Norton.
 
+•	Los circuitos, también llamados redes eléctricas, son un conjunto de elementos interconectados, por lo que tienen un comportamiento específico y predecible. Definir elementos de circuito y variables de análisis. Aplicar la ley de Kirchhoff y la ley de Ohm al análisis de circuitos de resistencia simple.
+
 
 •	La potencia en la resistencia variable, depende de los valores del circuito equivalente al de Thevenin 
 
 
-7.BIBLIOGRAFÍA
+7.BIOGRAFIA
+
+Teorema de máxima potencia. (2020, 12 diciembre). Wikipedia. https://es.wikipedia.org/wiki/Teorema_de_m%C3%A1xima_potencia#:~:text=En%20ingenier%C3%ADa%20el%C3%A9ctrica%2C%20electricidad%20y,a%20la%20resistencia%20de%20fuente.
+
+Teorema de transferencia de potencia máxima. (s. f.). La física y química. Recuperado 4 de febrero de 2021, de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
 
 8.ANEXOS
