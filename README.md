@@ -1,12 +1,19 @@
 # Laboratorio-4
 
 
-1.OBJETIVOS 
+1.OBJETIVOS
+
+Objetivo  General 
 
 •	Comprobar mediante el análisis,  práctica y simulación por computadora, el Teorema de Máxima Transferencia de Potencia  que se da a través de una resistencia de carga con valor RL conectada a un circuito emisor de dicha potencia
 
+Objetivos Específicos
+
 •	Analizar la variación de corriente tanto de forma experimental como practica.
 
+•	Utilizar todos los aprendizajes obtenidos para el desarrollo adecuado del laboratorio, mejorado el desempeño individual.
+
+•	Comprobar experimental el teorema planteado mediante cálculos que permitan verificar los valores obtenidos en el simulador .
 
 2.MARCO TEÓRICO
 
