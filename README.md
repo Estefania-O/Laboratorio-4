@@ -12,6 +12,8 @@
 
 ![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Teorema_maxima_potencia_transferida.png)
 
+![.]()
+
 3.DIAGRAMAS
 
 4.LISTA DE COMPONENTES
