@@ -1,7 +1,7 @@
-# Laboratorio-4
+## Laboratorio 4
 
 
-1.OBJETIVOS
+**1.OBJETIVOS**
 
 Objetivo  General 
 
@@ -15,13 +15,13 @@ Objetivos Específicos
 
 •	Comprobar experimental el teorema planteado mediante cálculos que permitan verificar los valores obtenidos en el simulador .
 
-2.MARCO TEÓRICO
+**2.MARCO TEÓRICO**
 
 ![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Teorema_maxima_potencia_transferida.png)
 
 ![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Maxima_transferencia_potencia.png)
 
-3.DIAGRAMAS
+**3.DIAGRAMAS**
 
 Circuito para comprobar el Teorema de la MTP
 
@@ -32,7 +32,7 @@ Circuitos armados con la ayuda del simulador Tinkercad en ellos se indican como 
 ![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Circuito_RL1.png)![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Circuito_RL2.png)
 ![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Circuito_RL3.png)![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Circuito_RL4.png)
 
-4.LISTA DE COMPONENTES
+**4.LISTA DE COMPONENTES**
 
 |**Cantidad**|**Elemento**|
 |:-----:|:-----:|
@@ -51,7 +51,7 @@ Circuitos armados con la ayuda del simulador Tinkercad en ellos se indican como 
 |1|Resistor de 4.7 kΩ|
 |1|Protoboard|
 
-5.EXPLICACIÓN
+**5.EXPLICACIÓN**
 
 Una vez implementado el circuito, tomado los datos de voltaje y corriente y su respectivo análisis algebraico se procedio a armar la siguiente tabla
 
@@ -79,7 +79,7 @@ Preguntas:
 ¿Para qué valor de RL se obtiene la MTP?
 
 
-6.  CONCLUSIONES:
+**6.  CONCLUSIONES**
 
 •	El teorema de la máxima transferencia de potencia, se deriva del teorema de Thevenin y el de Norton, con un poco de cálculo elemental: llegamos a la conclusión que la máxima potencia se da cuando la carga toma de resistencia de igual a la resistencia de Thevenin o Norton.
 
@@ -89,10 +89,10 @@ Preguntas:
 •	La potencia en la resistencia variable, depende de los valores del circuito equivalente al de Thevenin 
 
 
-7.BIOGRAFIA
+**7.BIOGRAFIA**
 
 Teorema de máxima potencia. (2020, 12 diciembre). Wikipedia. https://es.wikipedia.org/wiki/Teorema_de_m%C3%A1xima_potencia#:~:text=En%20ingenier%C3%ADa%20el%C3%A9ctrica%2C%20electricidad%20y,a%20la%20resistencia%20de%20fuente.
 
 Teorema de transferencia de potencia máxima. (s. f.). La física y química. Recuperado 4 de febrero de 2021, de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
 
-8.ANEXOS
+**8.ANEXOS**
