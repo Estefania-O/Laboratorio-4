@@ -69,16 +69,15 @@ Una vez implementado el circuito, tomado los datos de voltaje y corriente y su r
 |3900|2.94|11.5|0.03373|0.03373|
 |4700|2.54|11.9|0.03037|0.03037|
 
-Preguntas:
-
-¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+**¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
 
-¿Cuál fue la potencia máxima en RL?
+
+**¿Cuál fue la potencia máxima en RL?**
 
 Como se puede observar en la TABLA I la pontencia máxima de RL fue de 0.04648 watts
 
-¿Para qué valor de RL se obtiene la MTP?
+**¿Para qué valor de RL se obtiene la MTP?**
 
 Como se puede observan en la TABLA I la Rl de 1000 ohms es donde encontramos la máxima tranferencia de potencia
 
