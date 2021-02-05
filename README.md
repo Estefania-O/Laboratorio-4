@@ -75,6 +75,7 @@ Preguntas:
 
 ¿Cuál fue la potencia máxima en RL?
 
+La potencia máxima se encuentra en la RL de 1000 ohms ya como se muestra en la tabla despues de ese resistor los valores de la pontencia de las otras RL empiezan a dismunuir.
 
 ¿Para qué valor de RL se obtiene la MTP?
 
