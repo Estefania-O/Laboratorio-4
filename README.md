@@ -27,6 +27,11 @@ Circuito para comprobar el Teorema de la MTP
 
 ![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Cicuito_guia4.png)
 
+Circuitos armados con la ayuda del simulador Tinkercad en ellos se indican como se tomaron los valores de voltje y corriente en cada RL
+
+![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Circuito_RL1.png)![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Circuito_RL2.png)
+![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Circuito_RL3.png)![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Circuito_RL4.png)
+
 4.LISTA DE COMPONENTES
 
 |**Cantidad**|**Elemento**|
