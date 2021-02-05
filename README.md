@@ -71,6 +71,7 @@ Una vez implementado el circuito, tomado los datos de voltaje y corriente y su r
 
 **¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
+No se cumple el teorema  ya que ninguna de las resistencias tenia el valor igual a la resistencia  de la fuente 
 
 
 **¿Cuál fue la potencia máxima en RL?**
