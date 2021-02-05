@@ -16,6 +16,10 @@
 
 3.DIAGRAMAS
 
+Circuito para comprobar el Teorema de la MTP
+
+![.]()
+
 4.LISTA DE COMPONENTES
 
 |**Cantidad**|**Elemento**|
