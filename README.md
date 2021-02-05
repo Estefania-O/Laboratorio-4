@@ -18,7 +18,7 @@
 
 Circuito para comprobar el Teorema de la MTP
 
-![.]()
+![.](https://github.com/Estefania-O/Laboratorio-4/blob/main/img/Cicuito_guia4.png)
 
 4.LISTA DE COMPONENTES
 
